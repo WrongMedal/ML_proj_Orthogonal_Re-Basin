@@ -5,7 +5,7 @@ This project is structured like so: <br>
 - 2 MLP checkpoints [to download and then load into the files section for the previous notebook if you want to re-run it]
 - 1 notebook to train CNN models
 - 1 notebook to analyze CNN models
-- 2 CNN checkpoints [to download and then load into the files fsection or the previous notebook if you want to re-run it]
+- 2 CNN checkpoints [to download and then load into the files section or the previous notebook if you want to re-run it]
 - LateX + bibliography + pictures 
 
 You can find all the links below. <br>
