@@ -21,7 +21,12 @@ All the training logging is done with [Weights & Biases](https://wandb.ai/). To 
   - Output Layer: Linear(64 → 10)
 - Colab Notebook: [MLP Training Notebook](https://colab.research.google.com/drive/1sJohxZYppV9RlKlP03DBiJ5ztqX80hWm?usp=sharing)
 
-- ADD PICTURES OF ACCURACY
+<p align="center">
+  <img src="Pictures/MLP_Train_Loss.png" alt="Training Loss" width="400"/>
+  <img src="Pictures/MLP_Val_loss.png" alt="Validation Loss" width="400"/>
+  <img src="Pictures/MLP_Val_Acc.png" alt="Validation Accuracy" width="400"/>
+</p>
+
 
 ### CNN Training (CIFAR-10)
 - **Architecture: CNN5**
@@ -36,7 +41,20 @@ All the training logging is done with [Weights & Biases](https://wandb.ai/). To 
     3. Linear(512 → 10)
 - Colab Notebook: [CNN Training Notebook](https://colab.research.google.com/drive/1GW5-RtVSWXZ22OIlq3G2DYxXZmSTEJsM?usp=sharing)
 
-- - ADD PICTURES OF ACCURACY
+<p align="center">
+  <img src="Pictures/CNN_Train_Loss.png" alt="Training Loss" width="400"/>
+  <img src="Pictures/CNN_Val_Loss.png" alt="Validation Loss" width="400"/>
+  <img src="Pictures/CNN_Val_Acc.png" alt="Validation Accuracy" width="400"/>
+</p>
+
+## Table of Test-set results
+
+| Model   | Accuracy |   Loss   |
+|---------|----------|----------|
+| MLP_0   | 0.9784   | 0.072309 |
+| MLP_42  | 0.9773   | 0.78174  |
+| CNN_0   | 0.7967   | 1.01344  |
+| CNN_42  | 0.8113   | 0.99592  |
 
 ### Best Checkpoints
 - Folder containing the best checkpoints for each model: [here](https://github.com/WrongMedal/ML_proj_Orthogonal_Re-Basin/tree/main/Checkpoints)
