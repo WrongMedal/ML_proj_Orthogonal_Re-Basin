@@ -39,14 +39,14 @@ All the training logging is done with [Weights & Biases](https://wandb.ai/). To 
 - - ADD PICTURES OF ACCURACY
 
 ### Best Checkpoints
-- Folder containing the best checkpoints for each model: [Add folder path or link]
+- Folder containing the best checkpoints for each model: [here](https://github.com/WrongMedal/ML_proj_Orthogonal_Re-Basin/tree/main/Checkpoints)
 
 ---
 
 ## Analysis
 
 ### MLP Analysis
-- Notebook or file: [MLP Analysis Notebook]()
+- Notebook or file: [MLP Analysis Notebook](https://colab.research.google.com/drive/1jt9O1UdaPdMXsPhOC39JVwnN1f-HWERA?usp=sharing)
 
 ### CNN Analysis
 - Notebook or file: [CNN Analysis Notebook](https://colab.research.google.com/drive/1jU_5wiT7-BbzZOXaz14BmyLS0nrMPKB7?usp=sharing)
