@@ -46,10 +46,11 @@ All the training logging is done with [Weights & Biases](https://wandb.ai/). To 
 ## Analysis
 
 ### MLP Analysis
-- Notebook or file: [Add link or path]
+- Notebook or file: [MLP Analysis Notebook]()
 
 ### CNN Analysis
-- Notebook or file: [Add link or path]
+- Notebook or file: [CNN Analysis Notebook](https://colab.research.google.com/drive/1jU_5wiT7-BbzZOXaz14BmyLS0nrMPKB7?usp=sharing)
+
 
 
 
