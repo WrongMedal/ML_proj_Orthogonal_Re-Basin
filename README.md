@@ -21,6 +21,8 @@ All the training logging is done with [Weights & Biases](https://wandb.ai/). To 
   - Output Layer: Linear(64 → 10)
 - Colab Notebook: [MLP Training Notebook](https://colab.research.google.com/drive/1sJohxZYppV9RlKlP03DBiJ5ztqX80hWm?usp=sharing)
 
+- ADD PICTURES OF ACCURACY
+
 ### CNN Training (CIFAR-10)
 - **Architecture: CNN5**
   - Feature Extractor:
@@ -33,6 +35,8 @@ All the training logging is done with [Weights & Biases](https://wandb.ai/). To 
     2. Linear(256*2*2 → 512) → ReLU → Dropout(0.5)
     3. Linear(512 → 10)
 - Colab Notebook: [CNN Training Notebook](https://colab.research.google.com/drive/1GW5-RtVSWXZ22OIlq3G2DYxXZmSTEJsM?usp=sharing)
+
+- - ADD PICTURES OF ACCURACY
 
 ### Best Checkpoints
 - Folder containing the best checkpoints for each model: [Add folder path or link]
